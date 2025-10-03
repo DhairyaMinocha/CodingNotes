@@ -1,5 +1,5 @@
 # Lecture 2
-In this Lecture we learn How some basic stuff in HTML, CSS, JS.
+In this Lecture we learnt some basic stuff in HTML, CSS, JS.
 
 ## HTML
 In the basic structure of a HTML:
@@ -22,9 +22,7 @@ In the basic structure of a HTML:
 
 - `<html lang='en'>`: It Specifies that the Document is in English.
 - `<head>`: Head tag in HTML serves as a container for metadata about the HTML document. 
-- `<meta>`: Meta Tag in HTML stores the metadata about the webpage which is used for SEO Optimizations in Web Browsers.
-- `<title>`: Title Tag in HTML contains the Title of the HTML Document.
-- `<body>`: Body Tag in HTML serves as a container for all the Content in the HTML FIle.
+
 
 ## CSS
  To link a CSS file to HTML, you have to link it via `<script src="script.js"></script>` in HTML. 
